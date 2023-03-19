@@ -15,7 +15,7 @@ global.devs = '94772738086';
 global.website = 'https://github.com/prabathLK/PRABATH-MD' //wa.me/+94762280384
 global.THUMB_IMAGE = process.env.THUMB_IMAGE || 'https://i.imgur.com/H062oEI.jpeg'
 module.exports = {
-  botname: process.env.BOT_NAME || '𝐒𝐞𝐜𝐤𝐭𝐨𝐫 𝐁𝐨𝐭𝐭𝐨',
+  botname: process.env.BOT_NAME || '𝗖𝗝 𝐁𝐨𝐭𝐭𝐨',
   ownername:process.env.OWNER_NAME || 'ᴄᴊ 𝗕𝗢𝗧 𝗢𝗪𝗡𝗘𝗥',
   sessionName: process.env.SESSION_ID || 'PUT-HERE',
   author: process.env.PACK_INFO.split(";")[0] || 'author', 
